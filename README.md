@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ada programming: accessing an array element using an index that is out of the array's valid range.  The example shows a simple array iteration, followed by an attempt to access an element beyond the array bounds.  The solution showcases how to avoid this problem using Ada's strong typing and range checking features.
